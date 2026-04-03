@@ -1,0 +1,10 @@
+CLAUDE.md
+.claude/
+*.jpg
+*.ko
+*.o
+*.mod
+*.mod.c
+modules.order
+Module.symvers
+*.dtbo
